@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <RelativeLayout
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent">
+
+
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:paddingStart="10dp">
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/icon"
+            android:id="@+id/icon_image"
+            android:layout_marginLeft="45dp"/>
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="20dp" />
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/button_background"
+            android:text="Log In"
+            android:textAllCaps="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="14dp"/>
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="10dp" />
+
+        <Button
+            android:id="@+id/register"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/button_background"
+            android:text="Register"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="14dp"
+            android:textAllCaps="true"
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>

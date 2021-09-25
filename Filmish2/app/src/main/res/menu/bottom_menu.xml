@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/miHome"
+        android:title="Home"
+        android:icon= "@drawable/ic_home"/>
+    <item android:id="@+id/miPerSearch"
+        android:title="Search"
+        android:icon= "@drawable/ic_persearch"/>
+    <item android:id="@+id/miAdd"
+        android:title="Add"
+        android:icon= "@drawable/ic_add"/>
+    <item android:id="@+id/miTrack"
+        android:title="Feed"
+        android:icon= "@drawable/ic_track"/>
+    <item android:id="@+id/miSettings"
+        android:title="Settings"
+        android:icon= "@drawable/ic_settings"/>
+
+
+
+
+
+
+</menu>

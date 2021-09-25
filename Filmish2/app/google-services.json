@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011487557331",
+    "project_id": "filmish",
+    "storage_bucket": "filmish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011487557331:android:9209d990c2fa88b34b7626",
+        "android_client_info": {
+          "package_name": "com.example.filmish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011487557331-gajdgoffd4bve26rr8kmv3oc9hq7dvss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzA0FUrR0TTADXF4P5AmDfwACJtrTCIpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011487557331-gajdgoffd4bve26rr8kmv3oc9hq7dvss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
